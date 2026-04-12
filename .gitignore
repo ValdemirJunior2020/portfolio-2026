@@ -9,3 +9,9 @@ dist
 *.log
 *.tsbuildinfo
 .DS_Store
+node_modules
+dist
+.vscode
+*.log
+*.tsbuildinfo
+.DS_Store
